@@ -1,0 +1,3 @@
+﻿  zdc10000.cpp
+e:\c++op\1\zdc10000\zdc10000\zdc10000.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  zdc10000.vcxproj -> E:\C++OP\1\zdc10000\Debug\zdc10000.exe

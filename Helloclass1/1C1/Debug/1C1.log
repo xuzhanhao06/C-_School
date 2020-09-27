@@ -1,0 +1,2 @@
+﻿  1C1.cpp
+e:\c++op\1\helloclass1\1c1\1c1.cpp(15): error C2040: “num”:“const int &”与“int”的间接寻址级别不同

@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  HelloTemp.cpp
+e:\c++op\1\helloclass1\hellotemp\hellotemp.cpp(17): warning C4244: “参数”: 从“double”转换到“T2”，可能丢失数据
+          with
+          [
+              T2=int
+          ]
+e:\c++op\1\helloclass1\hellotemp\hellotemp.cpp(17): warning C4244: “参数”: 从“float”转换到“T2”，可能丢失数据
+          with
+          [
+              T2=int
+          ]
+  HelloTemp.vcxproj -> E:\C++OP\1\Helloclass1\Debug\HelloTemp.exe

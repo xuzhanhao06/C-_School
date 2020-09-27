@@ -1,0 +1,9 @@
+﻿  Fox.cpp
+e:\c++op\1\helloclass1\test3\fox.cpp(8): error C2661: “Dogs::Dogs”: 没有重载函数接受 3 个参数
+  test3.cpp
+e:\c++op\1\helloclass1\test3\test3.cpp(29): error C2819: “Dogs”类型没有重载成员“operator ->”
+  e:\c++op\1\helloclass1\test3\dogs.h(6): note: 参见“Dogs”的声明
+  e:\c++op\1\helloclass1\test3\test3.cpp(29): note: 是否改用“.”?
+e:\c++op\1\helloclass1\test3\test3.cpp(29): error C2039: “set_Age”: 不是“Dogs”的成员
+  e:\c++op\1\helloclass1\test3\dogs.h(6): note: 参见“Dogs”的声明
+  正在生成代码...

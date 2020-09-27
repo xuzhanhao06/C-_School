@@ -1,0 +1,123 @@
+﻿  erchashu.cpp
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(10): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(12): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(12): error C2065: “char data”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(12): error C2059: 语法错误:“;”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(14): error C2059: 语法错误:“}”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(14): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(16): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(18): error C2059: 语法错误:“private”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(19): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(19): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(19): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(19): error C2086: “int Node ”: 重定义
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): note: 参见“Node ”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(20): error C2059: 语法错误:“public”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(21): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(21): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(21): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(22): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(22): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(22): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(22): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C2086: “int Node”: 重定义
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(23): note: 参见“Node”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(24): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(25): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(26): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(26): error C2065: “p”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(26): error C2365: “void Order”: 重定义；以前的定义是“函数”
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(25): note: 参见“void Order”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(27): error C2059: 语法错误:“}”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(27): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(29): error C2653: “BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(29): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(29): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(29): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(30): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(30): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(31): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(32): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C2086: “int Node ”: 重定义
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): note: 参见“Node ”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C2653: “ BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(34): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(36): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(37): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(37): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(38): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(38): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(39): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(40): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(41): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(44): error C2653: “BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(44): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(44): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(44): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(45): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(46): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(47): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C2086: “int Node ”: 重定义
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(13): note: 参见“Node ”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C2653: “ BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C2065: “char pre”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(49): error C2059: 语法错误:“]”
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(50): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(50): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(51): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(51): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(52): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(52): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(53): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(54): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(54): error C3873: “0xa0”: 不允许将此字符作为标识符的第一个字符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(55): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(57): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(58): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(59): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(62): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(62): error C2653: “void BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(63): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(64): error C2660: “Order”: 函数不接受 1 个参数
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(62): note: 参见“Order”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(65): warning C4508: “Order”: 函数应返回一个值；假定“void”返回类型
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(66): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(66): error C2653: “void BinTree”: 不是类或命名空间名称
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(66): error C2065: “p”: 未声明的标识符
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(66): error C2365: “Order”: 重定义；以前的定义是“函数”
+  e:\c++op\1\helloclass1\erchashu\erchashu.cpp(62): note: 参见“Order”的声明
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(67): error C2448: “Order”: 函数样式初始值设定项类似函数定义
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(68): error C3872: “0xa0”: 此字符不允许在标识符中使用
+e:\c++op\1\helloclass1\erchashu\erchashu.cpp(68): fatal error C1003: 错误计数超过 100；正在停止编译

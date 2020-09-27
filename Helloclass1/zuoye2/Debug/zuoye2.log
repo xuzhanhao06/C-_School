@@ -1,0 +1,12 @@
+﻿  animal.cpp
+  cat.cpp
+  dog.cpp
+  nature.cpp
+  zuoye2.cpp
+  正在生成代码...
+cat.obj : error LNK2005: "public: virtual void __thiscall animal::talk(void)" (?talk@animal@@UAEXXZ) 已经在 animal.obj 中定义
+zuoye2.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall plant::research(void)" (?research@plant@@QAEXXZ)，该符号在函数 _main 中被引用
+zuoye2.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall plant::research(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?research@plant@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，该符号在函数 _main 中被引用
+zuoye2.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall plant::research(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?research@plant@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)，该符号在函数 _main 中被引用
+zuoye2.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall plant::research(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?research@plant@@QAEXHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，该符号在函数 _main 中被引用
+E:\C++OP\1\Helloclass\Debug\zuoye2.exe : fatal error LNK1120: 4 个无法解析的外部命令

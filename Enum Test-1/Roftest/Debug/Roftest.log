@@ -1,0 +1,4 @@
+﻿  Roftest.cpp
+e:\c++op\1\enum test-1\roftest\roftest.cpp(11): error C2440: “初始化”: 无法从“const int”转换为“int &”
+  e:\c++op\1\enum test-1\roftest\roftest.cpp(11): note: 转换丢失限定符
+e:\c++op\1\enum test-1\roftest\roftest.cpp(15): error C2105: “++”需要左值

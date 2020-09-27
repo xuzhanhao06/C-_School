@@ -1,0 +1,8 @@
+﻿  HelloOps.cpp
+e:\c++op\1\helloty\helloops\helloops.cpp(27): error C3892: “x”: 不能给常量赋值
+e:\c++op\1\helloty\helloops\helloops.cpp(28): error C2105: “++”需要左值
+e:\c++op\1\helloty\helloops\helloops.cpp(29): error C3892: “x”: 不能给常量赋值
+e:\c++op\1\helloty\helloops\helloops.cpp(30): error C2105: “--”需要左值
+e:\c++op\1\helloty\helloops\helloops.cpp(31): error C3892: “x”: 不能给常量赋值
+e:\c++op\1\helloty\helloops\helloops.cpp(32): error C3892: “x”: 不能给常量赋值
+e:\c++op\1\helloty\helloops\helloops.cpp(33): error C3892: “x”: 不能给常量赋值

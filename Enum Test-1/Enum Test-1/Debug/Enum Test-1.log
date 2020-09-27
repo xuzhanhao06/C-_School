@@ -1,0 +1,3 @@
+﻿  Stdarraytest.cpp
+e:\c++op\1\enum test-1\enum test-1\stdarraytest.cpp(8): error C2078: 初始值设定项太多
+e:\c++op\1\enum test-1\enum test-1\stdarraytest.cpp(10): warning C4018: “<”: 有符号/无符号不匹配

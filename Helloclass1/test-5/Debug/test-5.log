@@ -1,0 +1,8 @@
+﻿  test-5.cpp
+e:\c++op\1\helloclass1\test-5\test-5.cpp(70): error C2440: “return”: 无法从“bool”转换为“Dog”
+  e:\c++op\1\helloclass1\test-5\test-5.cpp(70): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+  e:\c++op\1\helloclass1\test-5\test-5.cpp(97): note: 参见对正在编译的函数 模板 实例化“T my_j<Dog>(const T,const T,const T)”的引用
+          with
+          [
+              T=Dog
+          ]
